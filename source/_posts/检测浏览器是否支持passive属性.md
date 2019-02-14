@@ -1,12 +1,16 @@
 ---
 title: 检测浏览器是否支持passive属性
-date: 2019-02-13 14:25:05
 tags:
-- 浏览器
-- w3c
+  - 浏览器
+  - w3c
 categories:
-- 浏览器
+  - 浏览器
+abbrlink: e396
+date: 2019-02-13 14:25:05
 ---
+
+![图片](/images/2.png)
+<!--less-->
 
 `addEventListener`第三个参数以往是`useCapture`,控制回调在捕获或是冒泡阶段执行.默认为false;
 签名:

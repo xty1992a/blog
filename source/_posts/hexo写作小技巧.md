@@ -1,11 +1,12 @@
 ---
 title: hexo写作小技巧
-date: 2019-02-14 14:58:27
 tags:
-- hexo
-- webstorm
+  - hexo
+  - webstorm
 categories:
-- hexo
+  - hexo
+abbrlink: 7b19
+date: 2019-02-14 14:58:27
 ---
 
 ## 快速输入hexo标签

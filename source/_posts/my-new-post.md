@@ -1,10 +1,10 @@
 ---
 title: my new post
-
 categories:
-- Diary
+  - Diary
 tags:
-- Test
+  - Test
+abbrlink: 40b8
 ---
 
 ## my first post

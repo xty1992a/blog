@@ -4,7 +4,7 @@ tags:
   - hexo
   - webstorm
 categories:
-  - hexo
+  - [技术,hexo]
 abbrlink: 7b19
 date: 2019-02-14 14:58:27
 ---

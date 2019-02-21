@@ -4,7 +4,7 @@ tags:
   - 浏览器
   - w3c
 categories:
-  - 浏览器
+  - [技术,浏览器]
 abbrlink: e396
 date: 2019-02-13 14:25:05
 ---

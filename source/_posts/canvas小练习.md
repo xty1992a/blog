@@ -1,5 +1,6 @@
 ---
 title: canvas小练习
+sage: true
 tags:
   - canvas
   - 浏览器

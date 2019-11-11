@@ -80,7 +80,7 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@45.77.19.249:/home/git/blog.git
+  repo: git@144.202.112.153:/home/git/blog.git
   branch: master
 
 search:

@@ -3,7 +3,12 @@ title: vue3.0尝鲜，写一个win10日历
 abbrlink: 59f5054f
 date: 2020-04-23 19:00:27
 tags:
+- 浏览器
+- 轮子
+- vuejs
 categories:
+- [技术,浏览器]
+- [技术,vue]
 ---
 
  {% codepen xty1992a dyYNzKa dark result 450 %}
@@ -14,9 +19,10 @@ categories:
 > 四处打量打量，正好看到win10的日历，哎呦，不错，就是你了。
 
 效果如下图：
-![calendar](/images/calendar.jpg)
+![calendar](/images/preview.gif)
 
 [一个简单的在线原型](https://codepen.io/xty1992a/pen/dyYNzKa)
+[完整预览链接](https://xty1992a.github.io/win10-calendar/index.html)
  {% codepen xty1992a dyYNzKa dark result 450 %}
 
 ### 搭建vue3.0项目
